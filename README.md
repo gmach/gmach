@@ -5,7 +5,7 @@ I'm Gavin Mach, a full stack web developer with over 12 years experience.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/gmach">@Machnet</a> | 🌱 founder of  <a href="https://grolly.com.au">Grolly.com.au</a> | 💬 connect <a href="https://www.linkedin.com/in/gavin-mach">LinkedIn Profile</a>
+💻 full stack developer <a href="https://github.com/gmach">Github</a> | 🌱 founder of  <a href="https://grolly.com.au">Grolly.com.au</a> | 💬 connect <a href="https://www.linkedin.com/in/gavin-mach">LinkedIn Profile</a>
 </h4>
 <p  align="center">
 <a href="https://gavinmach.com">https://gavinmach.com</a>
